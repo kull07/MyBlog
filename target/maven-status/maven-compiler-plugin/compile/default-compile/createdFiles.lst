@@ -1,0 +1,7 @@
+com\programm\model\Person.class
+com\programm\dao\PersonDAO.class
+com\programm\dao\PersonDAOImpl.class
+com\programm\service\PersonService.class
+com\programm\spring\MainPageController.class
+com\programm\spring\PersonController.class
+com\programm\service\PersonServiceImpl.class
